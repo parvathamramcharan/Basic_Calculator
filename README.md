@@ -4,7 +4,7 @@ A user friendly Basic calculator
 **GitHub:** [parvathamramcharan](https://github.com/parvathamramcharan)
 
 
-## Deployed at: [Look here]([https://basiccalculatoe.netlify.app/](https://basiccalcalculator.netlify.app/))
+## Deployed at: [Look here]([https://basiccalcalculator.netlify.app/])
 
 
 ## Basic Calculator
